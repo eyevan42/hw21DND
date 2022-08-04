@@ -1,0 +1,92 @@
+body {
+    background-image: url("/images/bgwall.jpg");
+}
+
+#dragon {
+    width: 1365px;
+    height: 400px;
+}
+
+#intro {
+    background-image: url("/images/dwall2.jpg");
+    padding: 20px;
+    padding-top: 75px;
+    width: 35%;
+    height: 15%;
+    margin-left: 450px;
+   margin-top: 50px;
+   border-radius: 10px;
+   font-style: normal white;
+   background-position: center;
+   text-align: center;
+   border-radius: 10px 10px 5px;
+   box-shadow: 10px 10px 5px black;
+   font-family: fantasy;
+   font-size: 20px;
+}
+
+#dM {
+    height: 300px;
+    width: 400px;
+    margin-top: 150px;
+    margin-left: 100px;
+    border-radius: 5px;
+    box-shadow: 8px 8px 4px rgb(51, 50, 50);
+}
+.dmBox {
+    display: inline-flex;
+}
+.box1 {
+    width: 600px;
+    height: 275px;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-top: 150px;
+    border: solid black;
+    border-radius: 10px;
+    align-items: center;
+    padding: 5%;
+    background-image: url("/images/dmDoor.jpg");
+    background-position: center;
+    background-size: 95%;
+    font-size: 25px;
+    font-family: fantasy;
+    text-shadow: 50%;
+    padding-top: 90px;
+    box-shadow: 8px 8px 4px rgb(51, 50, 50);
+}
+
+#party {
+    height: 300px;
+    width: 400px;
+    margin-top: -225px;
+    margin-bottom: 50px;
+    margin-left: 750px;
+    margin-right: 50px;
+    border-radius: 5px;
+    box-shadow: 8px 8px 4px rgb(51, 50, 50);
+}
+
+.playerBox {
+    display: inline-flex;
+}
+
+.box2 {
+    width: 600px;
+    height: 275px;
+    margin-right: 10px;
+    margin-left: 25px;
+    margin-top: 150px;
+    border: solid black;
+    border-radius: 10px;
+    align-items: center;
+    padding: 5%;
+    background-image: url("/images/dmDoor.jpg");
+    background-position: center;
+    background-size: 95%;
+    font-size: 25px;
+    font-family: fantasy;
+    text-shadow: 50%;
+    padding-top: 90px;
+    box-shadow: 8px 8px 4px rgb(51, 50, 50);
+}
